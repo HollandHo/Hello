@@ -1,0 +1,4 @@
+$ cd ~/sandbox
+$ mkdir git-learnin
+$ cd git-learnin
+$ git init
